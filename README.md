@@ -3,7 +3,7 @@
 ### ℹ️ About Me
 
 - 🎓 &nbsp; I'm a student at East Asia University of Technology
-- ❤️ &nbsp; Coding, Reading, listening to music.
+- ❤️ &nbsp; Coding, reading books, listening to music.
 
 <br>
 

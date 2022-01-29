@@ -4,6 +4,7 @@
 
 - 🎓 &nbsp; I'm a student at East Asia University of Technology
 - ❤️ &nbsp; Coding, reading books, listening to music.
+- ❤️ &nbsp; I'm learning ReactJS
 
 <br>
 
